@@ -46,7 +46,7 @@
 ### Licenses & Certifications
 
 | Badge | Certification |
-|------:|---------------|
+|:------|---------------|
 | ![ISTQB](https://img.shields.io/badge/ISTQB-Certified_Tester_Foundation_Level-0076C0?style=flat-square&logo=checkmarx&logoColor=white) | **Certified Tester, Foundation Level** — ISTQB |
 | ![Unreal](https://img.shields.io/badge/Unreal-Fellowship:_Animation-0E1128?style=flat-square&logo=unrealengine&logoColor=white) | **Unreal Fellowship: Animation** — Epic Games |
 | ![C#](https://img.shields.io/badge/C%23-For_Programmers:_A_Practical_Guide-512BD4?style=flat-square&logo=dotnet&logoColor=white) | **C# for Programmers: A Practical Guide** |
