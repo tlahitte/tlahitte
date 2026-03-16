@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJ6OHRlOGF6MnYxaXF2N2RuYnVhZmp4MWdpMDR4NjRxNDZtZXNtYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
+<img src="assets/header.webp" width="300"/>
 
 ### Hey there, I'm Tommy
 
@@ -22,7 +22,7 @@
 - Working at **Epic Games** in London
 - Building electronic props for **live theatre** and immersive shows
 - Currently Technical Director on the **People Person Show**
-- Open source contributor — tools for artists, performers, and creative technologists
+- Open source contributor - tools for artists, performers, and creative technologists
 
 ---
 
@@ -41,7 +41,7 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**ElevenApps**](https://github.com/tlahitte/ElevenApps) | Native macOS voice interface for ElevenLabs AI agents in live performances | Swift, SwiftUI, WebSocket |
-| [**Karamove Texture Drawing**](https://github.com/tlahitte/karamove_texture_drawing) | Blender addon — draw directly on UV textures of 3D objects | Python, Blender API |
+| [**Karamove Texture Drawing**](https://github.com/tlahitte/karamove_texture_drawing) | Blender addon - draw directly on UV textures of 3D objects | Python, Blender API |
 | [**AdobeScripts-JSX**](https://github.com/tlahitte/AdobeScripts-JSX) | Automation scripts for Adobe creative tools | JavaScript |
 
 ---
@@ -50,8 +50,8 @@
 
 | Badge | Certification |
 |:------|---------------|
-| ![ISTQB](https://img.shields.io/badge/ISTQB-Certified_Tester_Foundation_Level-0076C0?style=flat-square&logo=checkmarx&logoColor=white) | **Certified Tester, Foundation Level** — ISTQB |
-| ![Unreal](https://img.shields.io/badge/Unreal-Fellowship:_Animation-0E1128?style=flat-square&logo=unrealengine&logoColor=white) | **Unreal Fellowship: Animation** — Epic Games |
+| ![ISTQB](https://img.shields.io/badge/ISTQB-Certified_Tester_Foundation_Level-0076C0?style=flat-square&logo=checkmarx&logoColor=white) | **Certified Tester, Foundation Level** - ISTQB |
+| ![Unreal](https://img.shields.io/badge/Unreal-Fellowship:_Animation-0E1128?style=flat-square&logo=unrealengine&logoColor=white) | **Unreal Fellowship: Animation** - Epic Games |
 | ![C#](https://img.shields.io/badge/C%23-For_Programmers:_A_Practical_Guide-512BD4?style=flat-square&logo=dotnet&logoColor=white) | **C# for Programmers: A Practical Guide** |
 
 ---
